@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ozizhakGT/angularjs_project/issues"
   },
-  "homepage": "https://github.com/ozizhakGT/angularjs_project#readme"
+  "homepage": "https://github.com/ozizhakGT/angularjs_project#readme",
+  "devDependencies": {
+    "angular": "^1.7.7",
+    "live-server": "^1.2.1"
+  }
 }
