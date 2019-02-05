@@ -1,0 +1,19 @@
+{
+  "name": "angular-toturial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozizhakGT/angularjs_project.git"
+  },
+  "author": "Oz Izhak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozizhakGT/angularjs_project/issues"
+  },
+  "homepage": "https://github.com/ozizhakGT/angularjs_project#readme"
+}
